@@ -44,7 +44,7 @@ Cascading Style Sheets
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+<b>
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -56,7 +56,7 @@ The body tag
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul> unordered list, <ol> ordered list, <dl> description list
 ```
 
 **10.** Define the display `:flex property:`
