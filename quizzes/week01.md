@@ -62,11 +62,11 @@ The body tag
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+Flex defines the property sets for the flexible lengths of flexible items.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+The height, width, padding, and border affect the size of a box model.
 ```
