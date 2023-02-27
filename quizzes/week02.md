@@ -8,12 +8,16 @@ Var, let, const
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A function is a reusable statement used to calculate a value or perform a task  
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single-responsibility principle
+Open-closed principle
+Liskov substitution principle
+Interface segregation principle
+Dependency Inversion principle
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +26,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+Pineapple's position is 2, array indexes start at 0
 ```
 **5.** With these two objects: 
 ```js
@@ -47,12 +51,12 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model, HTML and CSS
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
