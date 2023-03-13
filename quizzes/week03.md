@@ -16,7 +16,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+?
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
@@ -31,12 +31,12 @@ Single responsibility principle
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+A class is a blueprint of an object, the instance is objects relationship to it's class.
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+A proxy allows you to create custom functionality for a specified object
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
