@@ -3,7 +3,7 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+Asynchronous code means that function will not run right now or be delayed until another function is completed. Synchronous code runs in order.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
@@ -13,7 +13,7 @@
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Open-closed principle.
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
