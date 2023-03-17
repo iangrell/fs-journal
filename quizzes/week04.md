@@ -28,7 +28,7 @@ A promise is an asynchronous function that will either resolve the request or re
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+Get, post, delete
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
@@ -43,12 +43,12 @@ The controller
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is the process of bundling data and the methods that act on that data that access to the data is restricted from outside the bundle.
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+200
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
