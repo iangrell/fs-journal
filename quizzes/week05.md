@@ -18,12 +18,12 @@ Object-relational mapping, ...
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
 ```
-
+Both Put and Post include a body.
 ```
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
-
+synchronous, asynchronous
 ```
 
 **6.** Fill in the missing piece of this snippet of code.
@@ -38,7 +38,7 @@ let Schema = ________.Schema;
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-
+Middleware is software that is between an operating system and the applications running on it.
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
