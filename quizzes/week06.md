@@ -8,12 +8,12 @@
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
 ```
-
+Components are self contained systems that contain all they need to function and are able to update without requiring a page refresh.
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+Props are used to pass the value of a variable from parent to child component.
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
@@ -33,7 +33,7 @@ Liskov Substitutions - objects of a super class should be replaceable with objec
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+The appState stores information for the entire application.  The state stores information for that specific component.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
