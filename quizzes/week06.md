@@ -28,7 +28,7 @@ Liskov Substitutions - objects of a super class should be replaceable with objec
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+router-link
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
