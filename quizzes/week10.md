@@ -14,7 +14,7 @@ Struct is a value type, class is a reference type.
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
-
+Void
 ```
 ## Example 1
 ```c#
@@ -40,12 +40,12 @@ data type
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+The abstract in preventing Car from creating an object.
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+The virtual will check for an overriding member of any class that inherits it.
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
@@ -55,5 +55,5 @@ public, private, protected, internal
 **10.** If you set a class or method to private, what can access it?
 <!-- enter you answer in the space below -->
 ```
-
+A private method or class will only be accessible within the body of the class or the struct in which they are declared.
 ```
